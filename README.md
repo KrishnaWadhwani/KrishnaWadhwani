@@ -1,3 +1,4 @@
+# Krishna Wadhwani
 - 👋 Hi, I’m Krishna Wadhwani, 14 Years Old Programmer 👦️
 - 👀 I’m interested in Programming, Android Development, Web Development, Competitive Programming, Machine Learning, Chess, Swimming
 - 🌱 I’m currently learning Data Structures And Algorithms
@@ -7,3 +8,6 @@
 - 🌟️ Me On CodeChef, HackerRank, CodeForces & CSES - [CodeChef](https://www.codechef.com/users/koolprogammer) , [HackerRank](https://www.hackerrank.com/kwswhwmw) , [CodeForces](https://codeforces.com/profile/koolprogrammer) , [CSES](https://cses.fi/user/63692) & [GeeksForGeeks](https://auth.geeksforgeeks.org/user/kwswhwmw/practice/)
 - 📱️ I Have Made About 20 Android Projects And Launched 3 On Play Store
 - 🕸️ I Have Made Around 320 Websites(Static, Dynamic) Using **DJANGO**, **FLASK**, **PHP**, **SERVLET**
+# My Github Stats
+
+[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaWadhwani)](https://github.com/KrishnaWadhwani)
