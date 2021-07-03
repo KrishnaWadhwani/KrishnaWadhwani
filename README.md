@@ -18,3 +18,21 @@
 
 [![Trending Repo](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=Memer&theme=dracula)](https://github.com/KrishnaWadhwani)
 
+# My Apps Links
+
+- These Apps Are Developed By Me And You Can Download Them From Playstore
+
+# Quack 
+
+<a href="https://play.google.com/store/apps/details?id=com.learning.quack">
+<img alt="Quack Playstore link" height = 100 src="https://user-images.githubusercontent.com/61587047/124344330-07d50600-dbef-11eb-8efe-88bb170f49af.png">
+
+[![Quack](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=Quack-Maths-Solver&theme=dracula)](https://github.com/KrishnaWadhwani/Quack-Maths-Solver)
+
+# Memer
+<a href="https://play.google.com/store/apps/details?id=com.memer">
+<img alt="Memer Playstore link" height = 100 src="https://user-images.githubusercontent.com/61587047/124344330-07d50600-dbef-11eb-8efe-88bb170f49af.png">
+  
+[![Quack](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=Memer&theme=dracula)](https://github.com/KrishnaWadhwani/Quack-Maths-Solver)
+ 
+  
