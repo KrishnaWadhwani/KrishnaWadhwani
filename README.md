@@ -10,4 +10,4 @@
 - 🕸️ I Have Made Around 320 Websites(Static, Dynamic) Using **DJANGO**, **FLASK**, **PHP**, **SERVLET**
 # My Github Stats
 
-[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaWadhwani)](https://github.com/KrishnaWadhwani)
+[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaWadhwani&theme=dracula)](https://github.com/KrishnaWadhwani)
