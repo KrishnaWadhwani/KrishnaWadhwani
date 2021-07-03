@@ -12,7 +12,8 @@
 
 [![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaWadhwani&theme=dracula)](https://github.com/KrishnaWadhwani)
 
-[![Top Langs Used By Krishna](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaWadhwani&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs Used By Krishna](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaWadhwani&theme=dracula)](https://github.com/KrishnaWadhwani)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=Memer&theme=dracula)](https://github.com/KrishnaWadhwani)
 
 
