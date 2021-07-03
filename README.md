@@ -14,6 +14,7 @@
 
 [![Top Langs Used By Krishna](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaWadhwani&theme=dracula)](https://github.com/KrishnaWadhwani)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=Memer&theme=dracula)](https://github.com/KrishnaWadhwani)
+# My Trending Repository
 
+[![Trending Repo](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=Memer&theme=dracula)](https://github.com/KrishnaWadhwani)
 
