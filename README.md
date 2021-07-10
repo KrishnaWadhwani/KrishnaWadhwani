@@ -16,7 +16,7 @@
 
 # My Trending Repository
 
-[![Trending Repo](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=Memer&theme=dracula)](https://github.com/KrishnaWadhwani)
+[![Trending Repo](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=Memer&theme=dracula)](https://github.com/KrishnaWadhwani/Memer)
 
 # My Apps Links
 
