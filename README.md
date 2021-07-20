@@ -1,3 +1,6 @@
+![LinkedIn (1)](https://user-images.githubusercontent.com/61587047/126290819-b97b9fc9-73a6-495d-846e-0cff196defcb.jpg)
+
+
 # Krishna Wadhwani
 - 👋 Hi, I’m Krishna Wadhwani, 14 Years Old Programmer 👦️
 - 👀 I’m interested in Programming, Android Development, Web Development, Competitive Programming, Machine Learning, Chess, Swimming
