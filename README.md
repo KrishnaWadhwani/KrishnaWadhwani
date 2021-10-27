@@ -66,12 +66,12 @@
 
 - These Apps Are Developed By Me And You Can Download Them From Playstore
 
-# HRM ECO SERVICES
+# HRM Eco Services
 
 <a href="https://play.google.com/store/apps/details?id=com.eco.hrmecoservices">
 <img alt="HRM ECO SERVICES Playstore link" height = 100 src="https://user-images.githubusercontent.com/61587047/124344330-07d50600-dbef-11eb-8efe-88bb170f49af.png">
 
-[![HRM ECO SERVICES](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=HRM-ECO-SERVICES&theme=dracula)](https://github.com/KrishnaWadhwani/Quack-Maths-Solver)
+[![HRM ECO SERVICES](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=HRM-Eco-Services&theme=dracula)](https://github.com/KrishnaWadhwani/Quack-Maths-Solver)
 
 Website: https://hrmservices.co
 
