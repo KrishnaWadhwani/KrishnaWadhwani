@@ -68,7 +68,7 @@
 
 # Me On Playstore
 
-# 📱️ [Krishna Wadhwani On Playstore](https://play.google.com/store/apps/dev?id=7122659705581139681)
+# 📱️ [Krishna Wadhwani On Playstore](https://play.google.com/store/apps/dev?id=7122659705581139681) (My Account Got Restricted..., will be live in 1 month)
 
 # HRM Eco Services
 
