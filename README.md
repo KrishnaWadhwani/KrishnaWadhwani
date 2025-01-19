@@ -5,7 +5,7 @@
 - 💻️ My Favourite Programming Languages: **JAVA**, **C++**, **PYTHON**
 - 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me - kwswhwmw@gmail.com , [Github](https://github.com/KrishnaWadhwani/) , [LinkedIn](https://www.linkedin.com/in/krishna-wadhwani-1063b81ab/)
-- 🌟️ Me On CodeChef, HackerRank, CodeForces & CSES - [CodeChef](https://www.codechef.com/users/iamtheone_kool) , [HackerRank](https://www.hackerrank.com/kwswhwmw) , [CodeForces](https://codeforces.com/profile/koolprogrammer) , [CSES](https://cses.fi/user/63692) & [GeeksForGeeks](https://auth.geeksforgeeks.org/user/kwswhwmw/practice/)
+<!--- 🌟️ Me On CodeChef, HackerRank, CodeForces & CSES - [CodeChef](https://www.codechef.com/users/iamtheone_kool) , [HackerRank](https://www.hackerrank.com/kwswhwmw) , [CodeForces](https://codeforces.com/profile/koolprogrammer) , [CSES](https://cses.fi/user/63692) & [GeeksForGeeks](https://auth.geeksforgeeks.org/user/kwswhwmw/practice/) -->
 - 📱️ I Have Made About 20 Android Projects And Launched 5 On Play Store And 3 Of Them Are Currently In Production 1 Removed By Google Play 2 Removed By Me
 - 🕸️ I Have Made Around 320 Websites(Static, Dynamic) Using **DJANGO**, **FLASK**, **PHP**, **SERVLET**
 
@@ -64,7 +64,7 @@
 
 # My Apps Links
 
-- These Apps Are Developed By Me And You Can Download Them From Playstore
+- I develop these Apps And You Can Download Them From Playstore
 
 # Me On Playstore
 
